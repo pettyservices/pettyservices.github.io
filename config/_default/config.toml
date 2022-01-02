@@ -2,7 +2,7 @@
 ## For a more detailed example of the themes capabilities look at "development/config.toml"
 languageCode = "en-us"
 title = "Petty Services"
-baseURL = "https://petty.services"
+baseURL = "https://pettyservices.github.io"
 theme = "html5up-alpha"
 disqusShortname = ""
 publishDIr = "docs"
