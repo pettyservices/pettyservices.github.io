@@ -1,0 +1,56 @@
+### Banner ###
+banner:
+  enable: true
+  image: #default is 'images/banner.jpg'
+  title: "Petty Services"
+  content: "" # Change this if you want something other then the site description
+  buttons:
+    - title: "Contact Us"
+      link: "contact"
+      class: "primary"
+    # - title: "Learn More"
+    #   link: "#"
+
+### Highlight ###
+highlight:
+  enable: false
+  header: "Introducing the ultimate mobile app <br /> for doing stuff with your phone"
+  content: "Blandit varius ut praesent nascetur eu penatibus nisi risus faucibus nunc ornare<br /> adipiscing nunc adipiscing. Condimentum turpis massa."
+  image: "images/pic01.jpg"
+
+### Features ###
+features:
+  enable: true
+  rows:
+    - items:
+      - title: "Security Best Practices"
+        icon: "fa-lock"
+        accent: "accent2" #accent values are 1-8
+        content: "Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros."
+      - title: "Node Management"
+        icon: "fa-cloud"
+        accent: "accent3" #accent values are 1-8
+        content: "Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros."
+    - items:
+        - title: "Software Architecture"
+          icon: "fa-chart"
+          accent: "accent4" #accent values are 1-8
+          content: "Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros."
+        - title: "Investment Strategies"
+          icon: "fa-bolt"
+          accent: "accent5" #accent values are 1-8
+          content: "Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros."
+
+### Blog ###
+blog:
+  enable: false
+  # Leave header text blank to remove entire <section>
+  header: "Recent Posts"
+  buttonText: "Read More"
+  postCount: 2
+
+### Call to Action ###
+cta:
+  enable: false
+  header: "Sign up for beta access"
+  content: "Blandit varius ut praesent nascetur eu penatibus nisi risus faucibus nunc."
