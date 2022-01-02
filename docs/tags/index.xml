@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Petty Services</title>
-    <link>https://petty.services/tags/</link>
+    <link>https://pettyservices.github.io/tags/</link>
     <description>Recent content in Tags on Petty Services</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Aug 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://petty.services/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Aug 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://pettyservices.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>tag1</title>
-      <link>https://petty.services/tags/tag1/</link>
+      <link>https://pettyservices.github.io/tags/tag1/</link>
       <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://petty.services/tags/tag1/</guid>
+      <guid>https://pettyservices.github.io/tags/tag1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tag2</title>
-      <link>https://petty.services/tags/tag2/</link>
+      <link>https://pettyservices.github.io/tags/tag2/</link>
       <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://petty.services/tags/tag2/</guid>
+      <guid>https://pettyservices.github.io/tags/tag2/</guid>
       <description></description>
     </item>
     

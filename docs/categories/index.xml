@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Petty Services</title>
-    <link>https://petty.services/categories/</link>
+    <link>https://pettyservices.github.io/categories/</link>
     <description>Recent content in Categories on Petty Services</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://petty.services/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://pettyservices.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
