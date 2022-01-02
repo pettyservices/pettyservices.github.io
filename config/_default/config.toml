@@ -5,6 +5,7 @@ title = "Petty Services"
 baseURL = "https://petty.services"
 theme = "html5up-alpha"
 disqusShortname = ""
+publishDIr = "docs"
 
 [params]
   description = "Working on improving security and infrastructure for Web3"
